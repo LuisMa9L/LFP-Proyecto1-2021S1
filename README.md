@@ -34,3 +34,31 @@ restaurante='Restaurante LFP'
 4,  pos_001
 ```
 
+----
+# Archivos de entra 2
+## Taco Bell
+
+### [Menú](TacoBell/MenuTacoBell.lfp)
+### [Orden 1](TacoBell/OrdenTacoBell.lfp)
+### [Orden 2](TacoBell/Orden2Tacobell.lfp)
+
+## Con errores
+
+### [Menú](TacoBell/MenuErrores.lfp)
+
+| No.   | Línes     | Columna   | Lexema    | Descricipción |
+|:-:    |:-:        | :-:       |:-:        | :-:           |
+|1|3|10|"|  Caracter desconocido |                
+|2|6|1|@|  Caracter desconocido |                
+|3|9|1|(|  Caracter desconocido |                
+|4|23|1|bb-1|  Identificador inválido |                
+|5|17|30|1.900.50|  Número inválido |                
+|6|11|16|>|  Caracter desconocido |                
+
+
+### [Orden 2](TacoBell/Orden2Errores.lfp)
+
+| No.   | Línes     | Columna   | Lexema    | Descricipción |
+|:-:    |:-:        | :-:       |:-:        | :-:           |
+|1|2|3|crun-chy|  Identificador Inválido |                
+|2|5|11|?|  Caracter desconocido |                         
