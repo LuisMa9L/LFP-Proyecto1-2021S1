@@ -51,9 +51,9 @@ restaurante='Restaurante LFP'
 |1|3|10|"|  Caracter desconocido |                
 |2|6|1|@|  Caracter desconocido |                
 |3|9|1|(|  Caracter desconocido |                
-|4|23|1|bb-1|  Identificador inválido |                
+|4|11|16|>|  Caracter desconocido |                
 |5|17|30|1.900.50|  Número inválido |                
-|6|11|16|>|  Caracter desconocido |                
+|6|23|1|bb-1|  Identificador inválido |                
 
 
 ### [Orden 2](TacoBell/Orden2Errores.lfp)
