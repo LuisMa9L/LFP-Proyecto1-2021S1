@@ -35,7 +35,7 @@ restaurante='Restaurante LFP'
 ```
 
 ----
-# Archivos de entra 2
+# Archivos de entrada 2
 ## Taco Bell
 
 ### [Menú](TacoBell/MenuTacoBell.lfp)
